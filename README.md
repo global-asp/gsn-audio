@@ -111,7 +111,7 @@ Story ID | Title | Shortcode | License
 
 All story content has been derived from the [African Storybook](http://africanstorybook.org).
 
-All recordings done at UBC Studios and mixed and post-processed by Craig Carpenter.
+All recordings done at UBC Studios and mixed and post-processed by Craig Carpenter of [Carpenter Sound Services](https://craigjcarpenter.wixsite.com/website).
 
 ## License
 
